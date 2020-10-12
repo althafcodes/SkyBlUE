@@ -76,8 +76,8 @@ class Header extends Component {
                         </NavItem>
                     </Nav>
                 </Collapse>
-                </div>
-                </Navbar>
+            </div>
+            </Navbar>
 
             <Jumbotron>
                 <div className="container">
